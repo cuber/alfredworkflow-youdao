@@ -16,4 +16,4 @@ Usage
 
 Download
 ========
-
+[Click Me](https://github.com/cuber/alfredworkflow-youdao/releases/download/v1.0/youdao-v1.0.alfredworkflow)
